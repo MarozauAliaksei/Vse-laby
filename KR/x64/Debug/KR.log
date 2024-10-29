@@ -1,0 +1,34 @@
+﻿  KR.cpp
+C:\Users\user\source\repos\KR\KR.cpp(4,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\user\source\repos\KR\KR.cpp(5,3): error C2065: mov: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(5,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\user\source\repos\KR\KR.cpp(5,7): error C2065: eax: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(6,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "test"
+C:\Users\user\source\repos\KR\KR.cpp(6,3): error C2065: test: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(6,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\user\source\repos\KR\KR.cpp(6,8): error C2065: eax: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(6,13): error C2065: eax: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(7,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jns"
+C:\Users\user\source\repos\KR\KR.cpp(7,3): error C2065: jns: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(7,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "positive"
+C:\Users\user\source\repos\KR\KR.cpp(7,7): error C2065: positive: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(9,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "negative"
+C:\Users\user\source\repos\KR\KR.cpp(10,3): error C2065: mov: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(10,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\user\source\repos\KR\KR.cpp(10,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(11,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\Users\user\source\repos\KR\KR.cpp(11,4): error C2065: jmp: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(11,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end"
+C:\Users\user\source\repos\KR\KR.cpp(13,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "positive"
+C:\Users\user\source\repos\KR\KR.cpp(11,8): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\user\source\repos\KR\KR.cpp(14,3): error C2065: mov: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(14,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\user\source\repos\KR\KR.cpp(14,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(15,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end"
+C:\Users\user\source\repos\KR\KR.cpp(17,2): error C2059: синтаксическая ошибка: }
+C:\Users\user\source\repos\KR\KR.cpp(20,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\user\source\repos\KR\KR.cpp(25,10): error C2062: тип "int" не требуется
+C:\Users\user\source\repos\KR\KR.cpp(27,9): error C2065: n: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(28,14): error C2065: n: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(30,22): error C2065: n: необъявленный идентификатор
+C:\Users\user\source\repos\KR\KR.cpp(33,22): error C2065: n: необъявленный идентификатор

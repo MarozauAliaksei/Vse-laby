@@ -1,0 +1,5 @@
+4
+Aleksei 900000000
+Misha 899999999.9
+Angelina 899999999.8
+Natasha 0

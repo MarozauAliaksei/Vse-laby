@@ -1,0 +1,5 @@
+﻿  Hz.cpp
+C:\Users\user\source\repos\Hz\Hz.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hz\Hz.cpp(48,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\Hz\Hz.cpp(179,31): warning C4018: <=: несоответствие типов со знаком и без знака
+  Hz.vcxproj -> C:\Users\user\source\repos\Hz\Debug\Hz.exe

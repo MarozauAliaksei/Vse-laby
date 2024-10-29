@@ -1,0 +1,9 @@
+﻿  Kr2sem.cpp
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(26,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(58,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(66,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(127,89): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(127,75): warning C4309: аргумент: усечение константного значения
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(133,85): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\user\source\repos\Kr2sem\Kr2sem.cpp(133,73): warning C4309: аргумент: усечение константного значения
+  Kr2sem.vcxproj -> C:\Users\user\source\repos\Kr2sem\x64\Debug\Kr2sem.exe

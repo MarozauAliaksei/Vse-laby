@@ -1,0 +1,8 @@
+﻿  IKR.cpp
+C:\Users\user\source\repos\IKR\IKR.cpp(252,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\IKR\IKR.cpp(317,14): warning C4101: A1: неиспользованная локальная переменная
+C:\Users\user\source\repos\IKR\IKR.cpp(317,32): warning C4101: A4: неиспользованная локальная переменная
+C:\Users\user\source\repos\IKR\IKR.cpp(317,20): warning C4101: A2: неиспользованная локальная переменная
+C:\Users\user\source\repos\IKR\IKR.cpp(317,26): warning C4101: A3: неиспользованная локальная переменная
+C:\Users\user\source\repos\IKR\IKR.cpp(45): warning C4717: operator<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  IKR.vcxproj -> C:\Users\user\source\repos\IKR\x64\Debug\IKR.exe

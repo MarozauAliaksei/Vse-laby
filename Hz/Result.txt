@@ -1,0 +1,108 @@
+Country: Belarusian
+Team: SUIR #1
+Total Score: 600
+Diploma Number: 2
+Prize Name: 1
+
+Country: Belarusian
+Team: NTU#1
+Total Score: 505
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SU 11
+Total Score: 505
+Diploma Number: 0
+Prize Name: 
+
+Country: Baltic
+Team: FU 2
+Total Score: 495
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SUIR #4
+Total Score: 490
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SU 1
+Total Score: 470
+Diploma Number: 1
+Prize Name: 1
+
+Country: Belarusian
+Team: SU 4
+Total Score: 455
+Diploma Number: 5
+Prize Name: 2
+
+Country: Belarusian
+Team: SU 6
+Total Score: 455
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SU 2
+Total Score: 445
+Diploma Number: 3
+Prize Name: 1
+
+Country: Baltic
+Team: FU 1
+Total Score: 445
+Diploma Number: 6
+Prize Name: 2
+
+Country: Belarusian
+Team: SU 5
+Total Score: 440
+Diploma Number: 4
+Prize Name: 2
+
+Country: Belarusian
+Team: SUIR 
+Total Score: 440
+Diploma Number: 8
+Prize Name: 3
+
+Country: Belarusian
+Team: SUIR #7
+Total Score: 435
+Diploma Number: 9
+Prize Name: 3
+
+Country: Belarusian
+Team: SUIR #5
+Total Score: 435
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SU 9
+Total Score: 415
+Diploma Number: 7
+Prize Name: 3
+
+Country: Belarusian
+Team: SU 10
+Total Score: 400
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SU 12
+Total Score: 385
+Diploma Number: 0
+Prize Name: 
+
+Country: Belarusian
+Team: SUIR #9
+Total Score: 345
+Diploma Number: 0
+Prize Name: 
+

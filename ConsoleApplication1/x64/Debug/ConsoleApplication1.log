@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10,14): warning C4101: b2: неиспользованная локальная переменная
+C:\Users\user\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10,10): warning C4101: b1: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\user\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,15 @@
+﻿  ASSambler.cpp
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(10,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(11,9): error C2065: mov: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(11,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(11,13): error C2065: eax: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(12,9): error C2065: mov: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(12,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(12,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(13,9): error C2065: add: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(13,13): error C2065: eax: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(13,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(14,9): error C2065: mov: необъявленный идентификатор
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+C:\Users\user\source\repos\ASSambler\ASSambler.cpp(14,16): error C2065: eax: необъявленный идентификатор

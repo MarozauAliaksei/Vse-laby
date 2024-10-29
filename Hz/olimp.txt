@@ -1,0 +1,19 @@
+Belarusian SU 1: 50 100 90 40 90 100
+Belarusian SUIR #1: S50 100 90 40 90 100 60 70
+Belarusian SU 2: 40 50 70 80 90 55 60
+Belarusian SU 5: 35 50 70 80 90 55 60
+Belarusian SU 4: 40 50 70 100 90 55 50
+Baltic FU 1: 40 50 70 80 90 55 60
+Belarusian SU 9: 40 50 50 80 90 55 50
+Belarusian SUIR : 40 50 70 80 90 50 60
+Belarusian SUIR #7: 40 50 70 70 90 55 60
+Belarusian SU 12: 40 50 70 80 90 55 
+Belarusian SU 6: 40 50 70 80 90 55 70
+Belarusian SUIR #5: 40 50 70 70 90 55 60
+Baltic FU 2: 40 100 70 80 90 55 60
+Belarusian SU 10: 40 70 85 90 55 60
+Belarusian SUIR #4: 80 70 85 90 55 60 50
+Belarusian NTU#1: 50 70 80 90 55 60 100
+Belarusian SUIR #9: 50 70 80 90 55
+Belarusian SU 11: 50 70 80 90 55 60 100
+

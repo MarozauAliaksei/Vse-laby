@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\user\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(8,5): error C2065: string: необъявленный идентификатор
+C:\Users\user\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(8,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "str"
+C:\Users\user\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(8,13): error C2065: str: необъявленный идентификатор

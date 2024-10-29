@@ -1,0 +1,4 @@
+Phones 7500 Nokia
+SmartPhones 1000 Samsung Age
+SmartPhones 1231 Google Pixel 6 Pro
+HeadPhones 100 Honor EarBuds 2 Lite
